@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - zemin
+  - karakter
+  - Enemy
+  - gold
+  - Enemy2
+  - "var\u0131lacak"
+  - varilacak
+  - Devamet
+  - ' stop'
+  - ground
+  - player
+  - contact
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "\xD6n Katman"
+    uniqueID: 4157039825
+    locked: 0
+  - name: Orta Katman
+    uniqueID: 367415695
+    locked: 0
+  - name: Arka Katman
+    uniqueID: 3764908649
+    locked: 0
+  - name: "En \xD6n Katman"
+    uniqueID: 822193505
+    locked: 0
